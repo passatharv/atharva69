@@ -1,8 +1,7 @@
 # Hi there, I'm Atharva 👋
 
 🎓 B.Tech in Artificial Intelligence & Data Science  
-💻 Passionate about *Open Source, **Full-Stack Development, and **Machine Learning*  
-🚀 Currently exploring *GirlScript Summer of Code 2025 (GSSoC)*  
+💻 Passionate about *Open Source, **Full-Stack Development, and **Machine Learning*   
 🌱 Learning advanced *React, **Spring Boot, and **AI Integrations*  
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/atharva-bhor-bb5a912b8)
 
